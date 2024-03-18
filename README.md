@@ -25,7 +25,7 @@ Here're some of the project's best features:
 
 <h3>Method 2</h3>
 <p>1. Go to chrome web store</p>
-<p>2. Search for "Chrome To-Do" or press this link here: linkplaceholder. </p>
+<p>2. Search for "MinimaList" or press this link here: https://chromewebstore.google.com/detail/minimalist/cdbieddamphflbboonfcogbjialjakhb?hl=en&authuser=0. </p>
   
 <h2>💻 Built with</h2>
 
